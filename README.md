@@ -6,4 +6,4 @@ Requirements:
 --> Flask
 
 To Run the Application:
-The Application is developed on Flask framework. Make the virtual environment that holds all the requirements defined above.
+The Application is developed on Flask framework. Make the virtual environment that holds all the requirements defined above to run the application
